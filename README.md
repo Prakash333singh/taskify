@@ -161,103 +161,103 @@ Contributions are welcome!
 
 # Home Page 🏠
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/home1.png' />
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/home2.png' />
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/home3.png' />
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/home4.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/home1.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/home2.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/home3.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/home4.png' />
 
 # Signup Page 📝
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/signup.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/signup.png' />
 
 # OTP received mail 📝
 
 <div style="display: flex; gap: 20px;">
-   <img width='30%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/otp1.jpg' />
-   <img width='30%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/otp2.jpg' />
+   <img width='30%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/otp1.jpg' />
+   <img width='30%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/otp2.jpg' />
 </div>
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/otp3.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/otp3.png' />
 
 # Verify OTP 🔐
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/verify-otp.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/verify-otp.png' />
 
 # Login Page 🔑
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/login.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/login.png' />
 
 # Forgot Password
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/forgot-pass1.png' />
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/forgot-pass2.png' />
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/forgot-pass4.png' />
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/forgot-pass3.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/forgot-pass1.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/forgot-pass2.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/forgot-pass4.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/forgot-pass3.png' />
 
 # Dashboard Page 📊 ( If not logged in )
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/dashboard2.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/dashboard2.png' />
 
 # Dashboard Page 📊
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/dashboard1.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/dashboard1.png' />
 
 # Dashboard Page 📊 ( Responsive screen )
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/dashboard%203.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/dashboard%203.png' />
 
 # Search Todo 📊
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/search%20todo1.png' />
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/search%20todo2.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/search%20todo1.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/search%20todo2.png' />
 
 # Loading Skeleton 📊
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/loading-skeleton.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/loading-skeleton.png' />
 
 # Data Not Found 📊
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/data-not-found.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/data-not-found.png' />
 
 # Important Tasks 📌
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/important-task.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/important-task.png' />
 
 # Completed Tasks ✅
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/completed-task.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/completed-task.png' />
 
 # Incomplete Tasks ❌
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/incomplete-task.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/incomplete-task.png' />
 
 # Create Todo 📝
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/create-todo.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/create-todo.png' />
 
 # Created Todo Toast 📝
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/create-todo2.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/create-todo2.png' />
 
 # Update Todo 🔄 (auto-fill data)
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/update-todo.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/update-todo.png' />
 
 # Todo Details ℹ️
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/todo-details.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/todo-details.png' />
 
 # Contact 📧
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/contact.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/contact.png' />
 
 # About ℹ️
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/Screenshot%202024-05-02%20235625.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/Screenshot%202024-05-02%20235625.png' />
 
 # Footer 🏆
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/footer.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/footer.png' />
 
 # Log Out Toast 🚪
 
-<img width='100%' src='https://github.com/Prakash333singh/taskify/tree/main/screenshots/logout.png' />
+<img width='100%' src='https://github.com/Prakash333singh/taskify/blob/main/screenshots/logout.png' />
