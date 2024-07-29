@@ -16,7 +16,7 @@ Hashed password using Bcrypt library
 <h2>Live link 🌍📡 - [  deployed link ]</h2>
 
 <h2>
-Backend deployed on Render 📬 : [  backend link ]
+Backend deployed on Render 📬 : [  [backend link ](https://taskify-0vy5.onrender.com/)]
 </h2>
 
 <hr/>
