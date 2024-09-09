@@ -1,6 +1,5 @@
-name: my first ci/cd setup
+name: Node.js CI/CD Pipeline
 
-# Trigger the workflow on push or pull request events
 on:
   push:
     branches:
@@ -15,44 +14,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the code from the repository
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      # Step 2: Set up Node.js environment
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20.x' # Specify the Node.js version from package.json
+          node-version: '20.x'
 
-      # Step 3: Install dependencies
       - name: Install Dependencies
         run: npm ci
 
-      # Step 4: Linting and Testing
-      # You can add more tests or linters as needed
+      # Commenting out testing and linting if not configured
       # - name: Run Linting (Optional)
       #   run: npm run lint
 
       # - name: Run Tests (Optional)
       #   run: npm test
 
-      # Step 5: Build the application
-      - name: Build the Application
-        run: npm run build
-
-      # Step 6: Deploy the application (Optional, for example, deploy to Heroku)
-      # This step can be added for deployment purposes
-      # - name: Deploy to Heroku (or any other platform)
-      #   run: |
-      #     echo "Deploying the application..."
-      #     # Add deployment steps here (e.g., heroku deploy command)
-
-  # Optionally, you can add a separate deployment job
-  # deploy:
-  #   runs-on: ubuntu-latest
-  #   needs: build
-  #   steps:
-  #     - name: Deploy to a hosting service (e.g., AWS, Azure, Heroku, etc.)
-  #       run: |
-  #         echo "Deploying..."
+      # Comment out build step if not needed
+      # - name: Build the Application
+      #   run: npm run build
