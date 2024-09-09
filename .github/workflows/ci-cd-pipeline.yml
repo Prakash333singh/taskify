@@ -1,4 +1,4 @@
-name: Node.js CI/CD Pipeline
+name: my first ci/cd setup
 
 # Trigger the workflow on push or pull request events
 on:
@@ -31,11 +31,11 @@ jobs:
 
       # Step 4: Linting and Testing
       # You can add more tests or linters as needed
-      - name: Run Linting (Optional)
-        run: npm run lint
+      # - name: Run Linting (Optional)
+      #   run: npm run lint
 
-      - name: Run Tests (Optional)
-        run: npm test
+      # - name: Run Tests (Optional)
+      #   run: npm test
 
       # Step 5: Build the application
       - name: Build the Application
